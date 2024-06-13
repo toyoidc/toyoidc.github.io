@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.fortinet.fortiexplorergo",
+    "sha256_cert_fingerprints":
+    ["89:23:CA:EC:BF:84:FC:A9:C2:0F:3C:84:2B:7A:4A:47:18:D4:09:C2:77:F4:14:F7:94:5C:2F:74:1B:41:6E:C2"]
+  }
+}]
