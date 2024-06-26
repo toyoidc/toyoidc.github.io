@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "AH4XFXJ7DK.com.fortinet.fortiexplorergo",
-        "paths": [ "/sampleapp2/*"]
+        "paths": [ "/fortiexplorergo/*"]
       }
     ]
   }
