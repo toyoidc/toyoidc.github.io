@@ -7,7 +7,7 @@
         "paths": [ "/fortiexplorergo/*"]
       },
       {
-        "appID": "AH4XFXJ7DK.com.fortinet.fortirecoder",
+        "appID": "AH4XFXJ7DK.com.fortinet.fortirecorder",
         "paths": [ "/fortirecorder/*"]
       }
     ]
