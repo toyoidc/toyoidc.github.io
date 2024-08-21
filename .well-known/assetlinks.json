@@ -14,6 +14,15 @@
     "namespace": "android_app",
     "package_name": "com.fortinet.fortiexplorergo",
     "sha256_cert_fingerprints":
+    ["E5:FE:23:63:40:0E:54:AE:DB:57:A5:89:C8:D0:5C:44:18:33:A9:70:CF:51:38:7A:08:D9:2A:51:BD:69:96:7D"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.fortinet.fortiexplorergo",
+    "sha256_cert_fingerprints":
     ["A5:FD:86:8F:85:53:0E:68:A6:DC:65:5A:A1:61:29:3C:B4:73:B4:A1:A0:4E:E5:00:49:AD:29:E5:07:20:F9:39"]
   }
 },
